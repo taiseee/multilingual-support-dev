@@ -1,0 +1,7 @@
+{
+  "title": "クライアントページ",
+  "counter_one": "一つ選択されてます",
+  "counter_other": "{{count}} つ選択されてます",
+  "counter_zero": "何も選択されていません",
+  "back-to-home": "ホームに戻る"
+}
